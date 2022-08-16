@@ -80,34 +80,34 @@ modifier.tr_entropic.name=Энтропия
 modifier.tr_entropic.desc=Обычные материалы не могут противостоять энтропийным вибрациям вашего инструмента.
 
 # --- Thaumic Wands ---
-item.wand.aer.cap=Air Infused Thaumium Bossed
-item.wand.ignis.cap=Fire Infused Thaumium Bossed
-item.wand.aqua.cap=Water Infused Thaumium Bossed
-item.wand.terra.cap=Earth Infused Thaumium Bossed
-item.wand.ordo.cap=Order Infused Thaumium Bossed
-item.wand.perditio.cap=Entropy Infused Thaumium Bossed
+item.wand.aer.cap=Наполненный воздухом таумический жезл
+item.wand.ignis.cap=Наполненный огнем таумический жезл
+item.wand.aqua.cap=Наполненный водой таумический жезл
+item.wand.terra.cap=Наполненный землей таумический жезл
+item.wand.ordo.cap=Наполненный порядком таумический жезл
+item.wand.perditio.cap=Наполненный энтропией таумический жезл
 
 
 # --- Cards ---
 
 #Restoration 
-card.restoration.name=Regained Knowledge
-card.restoration.text=You realize something about you studies seems oddly familiar, by introspection you find some long forgotten knowledge. (Gained 25 Restoration.)
+card.restoration.name=Восстановленные знания
+card.restoration.text=Вы понимаете, что что-то в ваших занятиях кажется вам странно знакомым, путем самоанализа вы обнаруживаете давно забытые знания.(Получено 25 Восстановления.)
 
 # --- Research ---
-tc.research_category.RESTORATION=Thaumic Restoration
+tc.research_category.RESTORATION=Таумическая реставрация
 
 #Restoration
-research_stage.thaumicrestoration:restoration.0=Hmm... This chapter seems to be interesting, it contains ancient magical devices, maybe I should investigate it further.
-research_stage.thaumicrestoration:restoration.1=Well, this chapter deals with the creation of thaumic devices, what I have actually expected.
+research_stage.thaumicrestoration:restoration.0=Хм... Эта глава кажется интересной, она содержит древние магические устройства, возможно, мне стоит исследовать ее дальше.
+research_stage.thaumicrestoration:restoration.1=Что ж, эта глава посвящена созданию таумических устройств, чего я, собственно, и ожидал.
 
 #Deco
-research_stage.thaumicrestoration:trdeco.0=This magical wood seems to be very sturdy. It's just perfect to turn it into some highly decorative blocks.
-research_addendum.thaumicrestoration:trdeco.0=Enframed in this magical metal, stone gets even more robust, and this wood looks even prettier.
+research_stage.thaumicrestoration:trdeco.0=Это волшебное дерево кажется очень прочным. Оно просто идеально подходит для того, чтобы сделать из него декоративные блоки.
+research_addendum.thaumicrestoration:trdeco.0=Оправленный в этот волшебный металл камень становится еще прочнее, а дерево выглядит еще красивее.
 
 #Advanced Research Pedestal
-research_stage.thaumicrestoration:recharger.0=My Recharge Pedestal is kinda slow, maybe I should try to augment it a bit so it get faster.
-research_stage.thaumicrestoration:recharger.1=<IMG>thaumicrestoration:textures/research/research.png:0:0:127:127:.6</IMG> I was able to come up with the ultimate Recharge Pedestal, I'm kinda proud honestly. Not only does it recharge my Items twice as fast, but it also seems to resonate with the enviroment. I found out that if you use four pillars of Quartz with a top of a metal that conducts magic well, the Recharge Pedestal seems to get even faster.<IMG>thaumicrestoration:textures/research/img_Charger.png:128:128:128:128:.5</IMG>
+research_stage.thaumicrestoration:recharger.0=Моя пьедестал перезарядки немного медленный, возможно, мне стоит попробовать немного усилить его, чтобы он стал быстрее.
+research_stage.thaumicrestoration:recharger.1=<IMG>thaumicrestoration:textures/research/research.png:0:0:127:127:.6</IMG> Мне удалось придумать идеальный пьедестал перезарядки, и, честно говоря, я даже горжусь этим. Он не только заряжает мои предметы в два раза быстрее, но и, кажется, резонирует с окружающей средой. Я обнаружил, что если использовать четыре столба из кварца с вершиной из металла, который хорошо проводит магию, пьедестал перезарядки станет еще быстрее.<IMG>thaumicrestoration:textures/research/img_Charger.png:128:128:128:128:.5</IMG>
 
 #Crystal Infusion
 research_stage.thaumicrestoration:crystalinfusion.0=The Infusion Matrix feels pretty complicated, all these jars and items and also that instability, why isn't the a easier solution?
